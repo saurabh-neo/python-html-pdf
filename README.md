@@ -9,7 +9,7 @@ Serverless installed </br>
 
 </br>
 Clone project on youe system and Browse to this directory and execute below command to deploy on aws : </br>
-sls deploy  </br>
+<b> sls deploy -v </br>
 
 Above will return AWS Gateway API url
 
