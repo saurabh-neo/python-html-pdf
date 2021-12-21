@@ -3,6 +3,13 @@ Sample demo to convert html input to pdf using python with aws lambda
 
 # Setup
 What you'll need:
-Python3
-Aws CLI installed and configured
-Serverless installed
+Python3 </br>
+Aws CLI installed and configured </br>
+Serverless installed </br>
+
+</br>
+Clone project on youe system and Browse to this directory and execute below command to deploy on aws : </br>
+sls deploy  </br>
+
+Above will return AWS Gateway API url
+
